@@ -5,3 +5,6 @@
 3. 把要檢查的檔案放入test_files
 4. 執行python main.py
 5. 顯示分類結果
+
+##輸出結果
+![執行結果](result.png)
